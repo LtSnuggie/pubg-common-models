@@ -10,4 +10,5 @@ const (
 	PubgoApiKey     = "PubgoKey"
 	GatewayPort     = "GatewayPort"
 	PollerPort      = "PollerPort"
+	WebAppDir       = "WebAppDir"
 )
